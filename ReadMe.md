@@ -7,6 +7,7 @@ Full Stack Web Developer focused on React and Next.js, creating fast, user-frien
 ### 🚀 Projects
 Check out some of my cool projects:
 
+- [Kharjino](https://github.com/soheilghanbary/kharjino) - The modern & minimal Expense Tracker.
 - [Shopino](https://github.com/soheilghanbary/shopino) - The Future of Online Shopping, Powered by Next.js and Tailwind CSS.
 - [Imagica](https://github.com/soheilghanbary/imagica) - Find Photos from all over the world.
 - [Webkade](https://webkade.vercel.app) - A platform for sharing web applications.
