@@ -11,7 +11,7 @@ Check out some of my cool projects:
 - [Shopino](https://github.com/soheilghanbary/shopino) - The Future of Online Shopping, Powered by Next.js and Tailwind CSS.
 - [Imagica](https://github.com/soheilghanbary/imagica) - Find Photos from all over the world.
 - [Webkade](https://webkade.vercel.app) - A platform for sharing web applications.
-- [TodoNext](https://github.com/soheilghanbary/toodnext) - Simplify Task Management with Next.js 15 & Prisma.
+- [TodoNext](https://github.com/soheilghanbary/todo-app) - Simplify Task Management with Next.js 15 & Prisma.
 
 ### 📫 Let's Connect
 
