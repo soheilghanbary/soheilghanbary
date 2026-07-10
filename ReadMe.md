@@ -3,7 +3,7 @@
 Full Stack Engineer focused on Next.js and TypeScript, building fast, modern web applications from database to UI. Currently leading development at Kian Ertebat and founder of Dakhlinoo.
 
 ### 💼 Skills
-![icons](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,drizzle,tailwindcss,postgresql,trpc,graphql,docker,vercel,git,prisma,nestjs,nodejs,mongodb,expressjs)
+![icons](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,drizzle,tailwindcss,postgresql,trpc,docker,prisma,nestjs,nodejs,mongodb,graphql)
 
 ### 🚀 Projects
 Check out some of my recent projects:
