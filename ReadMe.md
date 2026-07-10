@@ -7,13 +7,14 @@ Full Stack Engineer focused on Next.js and TypeScript, building fast, modern web
 
 ### 🚀 Projects
 Check out some of my recent projects:
-- [Factorino](https://github.com/soheilghanbary/factorino) - Online invoice generator web app. Built with Next.js, Drizzle ORM & TypeScript.
 - [Dakhlinoo](https://dakhlinoo.ir) - Personal expense management web app. Built with Next.js, Drizzle ORM & tRPC.
 - [Toosheh](https://github.com/soheilghanbary/toosheh) - Online clipboard sharing app. Built with Next.js, TypeScript, oRPC & Drizzle ORM.
 - [Potion](https://github.com/soheilghanbary/potion) - A note-taking web app. Built with Next.js, Drizzle ORM & tRPC.
+- [Factorino](https://github.com/soheilghanbary/factorino) - Online invoice generator web app. Built with Next.js, Drizzle ORM & TypeScript.
 - [Sharjino](https://sharjino.vercel.app) - Smart & simple building charge management system.
 - [Shopema](https://shopema.vercel.app) - Free classifieds/listings web app. Built with Next.js, Prisma & TypeScript.
 - [Kian Ertebat](https://kianertebat.vercel.app) - Official company website. Built with Astro, TailwindCSS & Motion.
+- [Vitrina](https://github.com/soheilghanbary/vitrina) - A classifieds/listings publishing platform. Built with Next.js, Drizzle ORM & TypeScript.
 
 ### 📫 Let's Connect
 - [Portfolio](https://soheilghanbary.ir)
